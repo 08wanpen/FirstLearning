@@ -1,3 +1,4 @@
 # FirstLearning
 First learning about github and python code
-dsd
+
+create at 08/12/2022
